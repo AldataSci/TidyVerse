@@ -1,4 +1,4 @@
 # TidyVerse
 Tidyverse Assignment for Data 607
 
-This is where I will use the fifa dataset which contains information about fifa players their heights,player_id,what jerseys they wear,body_types and etc... 
+For this tidyverse assignment I will use a disney_movie dataset to show the uses of dplyr.This dataset includes what movies are listed,their ratings, and the amount money the movie earned inflation adjusted.  
